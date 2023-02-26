@@ -3,7 +3,7 @@
 
 ## Descripcion
 
-- Clon de diseño de figma y logica entregada para simular el juego WORDLE
+- Clon de diseño de figma (solo desktop) y logica entregada para simular el juego WORDLE
 
 ## Tecnologias
 
