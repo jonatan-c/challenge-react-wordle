@@ -1,0 +1,17 @@
+export const words = [
+	'adios',
+	'acido',
+	'ducha',
+	'farol',
+	'globo',
+	'hielo',
+	'juego',
+	'limon',
+	'mango',
+	'nieve',
+	'ojala',
+	'punta',
+	'salon',
+	'unido',
+	'zorro',
+];

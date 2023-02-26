@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Roboto';
+}
+
+.backdrop {
+	background-color: rgba(243, 243, 243, 0.89);
+	/* background-color: rgba(38, 43, 60, 0.89); */
+
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 99;
+}
+
+.backdropDark {
+	background-color: rgba(38, 43, 60, 0.89);
+
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 99;
+}
+
+.modalBackgoundColor {
+	background-color: rgba(243, 243, 243, 0.89);
+}
+
+.modalBackgoundColorDark {
+	background-color: rgba(38, 43, 60, 0.89);
+}
+
+/* .bg-custom-css {
+	background-color: rgba(147, 155, 159, 0.3);
+	
+}
+
+.custom-bg {
+	background-color: rgba(147, 155, 159, 0.3);
+	
+} 
+*/

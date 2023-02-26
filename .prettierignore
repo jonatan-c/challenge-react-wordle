@@ -1,0 +1,15 @@
+dist
+package-lock.json
+
+.next
+
+README
+postcss.config.js
+tailwind.config.js
+tsconfig.json
+yarn.lock
+.husky
+.eslintrc.js
+vite.config.ts
+vite-env.d.ts
+next-env.d.ts
